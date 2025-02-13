@@ -48,7 +48,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaimejunr&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="180" alt="Gráfico de linguagens" />
-  <img src="https://streak-stats.demolab.com?user=jaimejunr&locale=pt-br&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="180" alt="Gráfico de streaks" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaimejunr&radius=10&theme=dracula&area=true&order=5" height="284" alt="Gráfico de atividades" />
 </div>
 
