@@ -14,12 +14,6 @@
   <a href="https://www.linkedin.com/in/jaime-basso/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="Logo do LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100089484554276" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Logo do Facebook" />
-  </a>
-  <a href="https://www.youtube.com/@Szkalebe" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="Logo do YouTube" />
-  </a>
   <a href="mailto:jaimeodairbassojuniorjaime@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Logo do Gmail" />
   </a>
