@@ -1,7 +1,3 @@
-<div align="right">
-  <img src="https://profile-counter.glitch.me/jaimejunr/count.svg?" alt="Contador de visitas" />
-</div>
-
 <h1 align="left">Olá 👋 Meu nome é Jaime Basso</h1>
 
 <p align="left">Seja bem-vindo ao meu portfólio!</p>
