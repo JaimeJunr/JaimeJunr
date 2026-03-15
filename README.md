@@ -5,10 +5,13 @@
 <h2 align="left">Sobre mim</h2>
 
 <p align="left">
-  Atualmente, atuo como desenvolvedor full stack em estágio, contribuindo com a manutenção e evolução de código legado nas linguagens Ruby (com o framework Ruby on Rails) e Groovy (com o framework Grails).
+  Sou estudante de Engenharia de Software e atuo como Desenvolvedor Full Stack, com forte foco em desenvolvimento back-end, arquitetura de sistemas e soluções para o setor financeiro[cite: 18].
 </p>
 <p align="left">
-  Tenho como foco principal o desenvolvimento de sistemas full stack, com ênfase em back-end e princípios de engenharia de software. Busco constantemente aprimorar minhas habilidades técnicas e contribuir com soluções de qualidade.
+  Atualmente, sou Estagiário Desenvolvedor de Software na Investtools, trabalhando com sistemas de gestão financeira (ERP) e na manutenção e evolução de ecossistemas críticos para o mercado de capitais[cite: 59, 60, 61]. Tenho experiência em construir aplicações escaláveis e seguras, com forte integração entre APIs e bancos de dados[cite: 19].
+</p>
+<p align="left">
+  Possuo a certificação CPA-20, o que me ajuda a alinhar o conhecimento técnico com a visão estratégica de negócios em projetos de investimentos e produtos financeiros[cite: 21]. Além disso, sou movido por aprendizado contínuo, boas práticas de engenharia de software e arquitetura limpa[cite: 22]. Fora do código, aprecio um bom café, chimarrão e churrasco.
 </p>
 
 <div align="left">
@@ -22,23 +25,34 @@
 
 <br clear="both">
 
-<h2 align="left">Tecnologias que utilizo</h2>
+<h2 align="left">Tecnologias e Ferramentas</h2>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby" title="Ruby" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" title="AWS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
 </div>
+
+<br clear="both">
 
 <h2 align="left">Estatísticas e atividades</h2>
 
