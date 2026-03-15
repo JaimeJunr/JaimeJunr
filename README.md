@@ -11,7 +11,7 @@
   Atualmente, sou Estagiário Desenvolvedor de Software na Investtools, trabalhando com sistemas de gestão financeira (ERP) e na manutenção e evolução de ecossistemas críticos para o mercado de capitais. Tenho experiência em construir aplicações escaláveis e seguras, com forte integração entre APIs e bancos de dados.
 </p>
 <p align="left">
-  Possuo a certificação CPA-20, o que me ajuda a alinhar o conhecimento técnico com a visão estratégica de negócios em projetos de investimentos e produtos financeiros. Além disso, sou movido por aprendizado contínuo, boas práticas de engenharia de software e arquitetura limpa[cite: 22]. Fora do código, aprecio um bom café, chimarrão e churrasco.
+  Possuo a certificação CPA-20, o que me ajuda a alinhar o conhecimento técnico com a visão estratégica de negócios em projetos de investimentos e produtos financeiros. Além disso, sou movido por aprendizado contínuo, boas práticas de engenharia de software e arquitetura limpa. Fora do código, aprecio um bom café, chimarrão e churrasco.
 </p>
 
 <div align="left">
