@@ -5,13 +5,13 @@
 <h2 align="left">Sobre mim</h2>
 
 <p align="left">
-  Sou estudante de Engenharia de Software e atuo como Desenvolvedor Full Stack, com forte foco em desenvolvimento back-end, arquitetura de sistemas e soluções para o setor financeiro[cite: 18].
+  Sou estudante de Engenharia de Software e atuo como Desenvolvedor Full Stack, com forte foco em desenvolvimento back-end, arquitetura de sistemas e soluções para o setor financeiro.
 </p>
 <p align="left">
-  Atualmente, sou Estagiário Desenvolvedor de Software na Investtools, trabalhando com sistemas de gestão financeira (ERP) e na manutenção e evolução de ecossistemas críticos para o mercado de capitais[cite: 59, 60, 61]. Tenho experiência em construir aplicações escaláveis e seguras, com forte integração entre APIs e bancos de dados[cite: 19].
+  Atualmente, sou Estagiário Desenvolvedor de Software na Investtools, trabalhando com sistemas de gestão financeira (ERP) e na manutenção e evolução de ecossistemas críticos para o mercado de capitais. Tenho experiência em construir aplicações escaláveis e seguras, com forte integração entre APIs e bancos de dados.
 </p>
 <p align="left">
-  Possuo a certificação CPA-20, o que me ajuda a alinhar o conhecimento técnico com a visão estratégica de negócios em projetos de investimentos e produtos financeiros[cite: 21]. Além disso, sou movido por aprendizado contínuo, boas práticas de engenharia de software e arquitetura limpa[cite: 22]. Fora do código, aprecio um bom café, chimarrão e churrasco.
+  Possuo a certificação CPA-20, o que me ajuda a alinhar o conhecimento técnico com a visão estratégica de negócios em projetos de investimentos e produtos financeiros. Além disso, sou movido por aprendizado contínuo, boas práticas de engenharia de software e arquitetura limpa[cite: 22]. Fora do código, aprecio um bom café, chimarrão e churrasco.
 </p>
 
 <div align="left">
