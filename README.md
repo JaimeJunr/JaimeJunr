@@ -24,13 +24,14 @@ Desenvolvedor Full Stack • Sistemas Financeiros (ERP) • Manutenção de Prod
 
 Sou estudante de Engenharia de Software e atuo como **Desenvolvedor Full Stack**, com forte foco em desenvolvimento back-end, arquitetura de sistemas e soluções para o setor financeiro.
 
-Atualmente, sou Estagiário Desenvolvedor de Software na **Investtools**, trabalhando com sistemas de gestão financeira (ERP) e na manutenção e evolução de ecossistemas críticos para o mercado de capitais. 
+Atualmente, sou Desenvolvedor de Software na **Investtools**, trabalhando com sistemas de gestão financeira (ERP) e na manutenção e evolução de ecossistemas críticos para o mercado de capitais. 
 
 **Meu trabalho e foco atual envolvem:**
 
 - 🏦 Construção de aplicações escaláveis e seguras para o mercado financeiro.
 - 🔌 Forte integração entre APIs e bancos de dados.
-- 📈 Alinhamento de conhecimento técnico com visão estratégica de negócios em projetos de investimentos (fortalecido pela minha certificação **CPA-20**).
+- ☁️ Desenvolvimento e manutenção de arquiteturas distribuídas e orientadas a eventos, com experiência na criação de sistemas do zero, automações e soluções escaláveis em ambientes cloud.
+- 📈 Alinhamento de conhecimento técnico com visão estratégica de negócios em projetos de investimentos, fortalecido pela certificação CPA-20.
 - ⚙️ Aplicação contínua de boas práticas de engenharia de software e arquitetura limpa.
 
 *Fora do código, aprecio um bom café ☕, chimarrão 🧉 e churrasco 🥩.*
