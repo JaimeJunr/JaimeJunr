@@ -1,103 +1,51 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0052CC&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0052CC&height=120&section=header" alt=""/>
 
-<h1 align="center">Olá 👋 Meu nome é Jaime Basso</h1>
-<h3 align="center">
-Desenvolvedor Full Stack • Sistemas Financeiros (ERP) • Manutenção de Produção • CPA-20
-</h3>
+<h1 align="center">Jaime Basso</h1>
+<h3 align="center">Engenheiro de Software Júnior · Full Stack TypeScript, AWS e Agentes de IA · Fundos de investimento</h3>
 
-<div align="center" style="margin-top: 1rem; margin-bottom: 2rem;"> 
-  <a href="mailto:jaimeodairbassojuniorjaime@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/jaime-basso/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" alt="LinkedIn">
-  </a> 
-</div>
+<p align="center">
+  <a href="mailto:jaimeodairbassojuniorjaime@gmail.com"><img src="https://img.shields.io/badge/-E--mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://www.linkedin.com/in/jaime-basso/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://constelacaoai.com.br"><img src="https://img.shields.io/badge/-Constela%C3%A7%C3%A3o%20AI-%230052CC?style=for-the-badge&logoColor=white" alt="Constelação AI"></a>
+</p>
 
----
+## Sobre mim
 
-## 🧑‍💻 Sobre Mim
+Sou engenheiro de software júnior na **Investtools**, onde desenvolvo software para fundos de investimento: back-end em nuvem, APIs REST, integrações entre sistemas e IA aplicada à engenharia. Já integrei 8 bancos e custodiantes e migrei um serviço inteiro para Rust em 6 fases.
 
-<table>
-<tr>
-<td width="60%" valign="top">
+Tenho as certificações **CPA-20** e **C-Pro R** da ANBIMA e estudo Engenharia de Software na Faculdade Gran.
 
-Sou estudante de Engenharia de Software e atuo como **Desenvolvedor Full Stack**, com forte foco em desenvolvimento back-end, arquitetura de sistemas e soluções para o setor financeiro.
+Fora do código, gosto de um bom café ☕, chimarrão 🧉 e churrasco 🥩.
 
-Atualmente, sou Desenvolvedor de Software na **Investtools**, trabalhando com sistemas de gestão financeira (ERP) e na manutenção e evolução de ecossistemas críticos para o mercado de capitais. 
+## Projetos
 
-**Meu trabalho e foco atual envolvem:**
+- **[Constelação AI](https://constelacaoai.com.br)**: plataforma brasileira de IA, com chat web e API compatível com a da OpenAI, cobrada em reais. Next.js, Supabase e OpenRouter. No ar.
+- **[Flowtomic](https://github.com/JaimeJunr/Flowtomic)**: design system open source em React e TypeScript, com mais de 280 componentes, hooks headless e CLI de instalação.
+- **[polyagent-mcp](https://github.com/JaimeJunr/polyagent-mcp)**: servidor MCP que deixa qualquer agente delegar tarefas para CLIs de código (Codex, Claude Code, OpenCode e outras), com sandbox obrigatório e controle de modelo e esforço.
+- **[serverust](https://github.com/JaimeJunr/serverust)**: framework em Rust para AWS Lambda e APIs HTTP, inspirado em Axum, FastAPI e NestJS.
+- **[context-engine](https://github.com/JaimeJunr/context-engine)**: economizador de tokens para Claude Code e agentes MCP, com mapas de repositório, grafo de chamadas em 7 linguagens e RAG local, 100% offline.
+- **[claude-code-frontend-skills](https://github.com/JaimeJunr/claude-code-frontend-skills)**: marketplace de skills de design de frontend para Claude Code, curado e sincronizado toda semana.
+- **[Homestead](https://github.com/JaimeJunr/Homestead)**: CLI em Go com interface de terminal para manutenção de sistemas Linux.
 
-- 🏦 Construção de aplicações escaláveis e seguras para o mercado financeiro.
-- 🔌 Forte integração entre APIs e bancos de dados.
-- ☁️ Desenvolvimento e manutenção de arquiteturas distribuídas e orientadas a eventos, com experiência na criação de sistemas do zero, automações e soluções escaláveis em ambientes cloud.
-- 📈 Alinhamento de conhecimento técnico com visão estratégica de negócios em projetos de investimentos, fortalecido pela certificação CPA-20.
-- ⚙️ Aplicação contínua de boas práticas de engenharia de software e arquitetura limpa.
+## Tecnologias
 
-*Fora do código, aprecio um bom café ☕, chimarrão 🧉 e churrasco 🥩.*
+- **Backend:** TypeScript, Node.js, NestJS, Java, Spring Boot, Groovy/Grails, Ruby on Rails, Python, Rust, Go
+- **Frontend:** JavaScript, React, Next.js, Tailwind CSS, Storybook
+- **Dados:** PostgreSQL, MySQL/MariaDB, DynamoDB, MongoDB, Kafka
+- **Cloud e DevOps:** AWS, Docker, Terraform, CI/CD com GitHub Actions
+- **Práticas:** APIs REST, arquitetura de software, Clean Code e SOLID, testes automatizados, code review
+- **IA:** agentes com Claude Code e Codex, servidores MCP
 
-</td>
-<td width="40%" align="center">
-<img height="220" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</td>
-</tr>
-</table>
+## Atividade
 
----
+A maior parte do meu trabalho profissional fica em repositórios privados da empresa, então o gráfico abaixo mostra só uma parte da minha atividade.
 
-## 🚀 Tecnologias e Ferramentas
-
-### Backend
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-
-### Infraestrutura, Cloud & Banco de Dados
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 Estatísticas e Atividades
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://streak-stats.demolab.com?user=jaimejunr&locale=pt_BR&mode=daily&theme=dark&hide_border=true&border_radius=5&background=0e021d&stroke=0052CC&ring=0052CC&fire=0052CC&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=0052CC&sideLabels=0052CC&dates=c9d1d9" height="200" alt="streak graph" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaimejunr&radius=10&theme=dracula&area=true&order=5" width="100%" alt="Gráfico de atividade" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaimejunr/jaimejunr/pacman-output/breakout-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaimejunr/jaimejunr/pacman-output/breakout-contribution-graph.svg">
-    <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/jaimejunr/jaimejunr/pacman-output/breakout-contribution-graph.svg">
+    <img alt="Gráfico de contribuições em forma de jogo Breakout" src="https://raw.githubusercontent.com/jaimejunr/jaimejunr/pacman-output/breakout-contribution-graph.svg">
   </picture>
 </div>
 
----
-
-## 📌 Nota sobre minha atividade no GitHub
-
-A maior parte do meu trabalho profissional é realizada em repositórios privados corporativos (como Bitbucket). Por isso, meu gráfico público no GitHub não representa a totalidade da minha atividade diária de desenvolvimento.
-
-⭐ *Gosto de construir sistemas que rodam de fato em produção, resolvendo incidentes reais e melhorando a estabilidade ao longo do tempo.*
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jaimejunr.jaimejunr&left_color=0e021d&right_color=0052CC" alt="visitor badge" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0052CC&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0052CC&height=120&section=footer" alt=""/>
